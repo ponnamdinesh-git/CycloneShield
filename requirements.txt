@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+requests
+google-genai
+earthengine-api
+python-dotenv
+Pillow

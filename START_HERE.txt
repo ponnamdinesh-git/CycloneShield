@@ -1,0 +1,9 @@
+1. Open this folder in VS Code.
+2. Terminal > New Terminal.
+3. Run:
+python -m venv .venv
+.venv\Scripts\activate
+python -m pip install -r requirements.txt
+streamlit run app.py
+
+If python is not recognized, replace python with py.
